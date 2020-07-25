@@ -1,0 +1,88 @@
+.react-main {
+  text-align: center;
+  overflow: hidden;
+}
+
+.table {
+    width: 100%;
+    border: 2px solid #7289da; 
+    overflow: auto;
+    display: block;
+    table-layout: auto;
+}
+
+.table th {
+    color: #03dac6;
+    border-bottom: 2px solid #bb86fc!important;
+    border-top: 0px!important;
+}
+
+/* .table th:first-child {
+    border-left: 2px solid #7289da;
+}
+
+.table th:last-child {
+    border-right: 2px solid #7289da;
+}
+  */
+.table td {
+    color: white;
+    border-bottom: #7289da solid 1px;
+}
+
+.react-bootstrap-table-pagination-total {
+    color: #cf6679;
+}
+
+a, a:link, a:visited, a:hover, a:active{
+    color: inherit;
+}
+
+.loading-animation {
+    position: absolute;
+    top: 50%
+}
+
+.react-bootstrap-table .row-expansion-style {
+    padding: 0!important;
+}
+
+.table-opener td {
+    border-bottom: 1px;
+}
+
+.table-opener {
+    overflow: hidden;
+}
+
+.table-listing {
+    border-top: 1px solid #dee2e6!important;
+    padding: 0.5em!important;
+    font-size: 13px;
+}
+
+.table-listing-2 {
+    vertical-align: middle!important;
+    text-align: center;
+    border-left: 1px solid #dee2e6;
+    overflow: auto;
+}
+
+.table-opener-header {
+    padding: 0.6em!important;
+    color: white!important;
+    background: #575757;
+    height: auto;
+    font-size: 15px;
+}
+
+.error-div {
+    color: #c4dcdd;
+    border: 2px solid #cf6679;
+    border-radius: 10px;
+    width: 100%;
+    margin: 30% auto;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
