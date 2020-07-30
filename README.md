@@ -1,5 +1,8 @@
 # Frontend for cStats webpage
 
+### Try out the website here!
+https://cstat.snowy.gg  
+
 ## How to run:
 ``` bash
 # Install dependencies for server
